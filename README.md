@@ -8,6 +8,8 @@
 ## Project Overview
 This beginner-level guided project creates an interactive Excel dashboard to explore and analyze coffee shop sales. The project aims to demonstrate data analysis and visualization techniques using Microsoft Excel.
 
+![Screenshot 2024-11-22 135723](https://github.com/user-attachments/assets/1d6c7079-43c5-43d6-965c-b54389527d58)
+
 ### Data Sources
 The project uses a single data source:
 - Coffee Shop Sales Data (.CSV file)
@@ -28,11 +30,21 @@ This section describes the data analysis techniques used to explore and understa
 - Descriptive statistics (means, medians, and standard deviations)
 - Data filtering and grouping
 
+![Screenshot 2024-11-22 135233](https://github.com/user-attachments/assets/094809e1-5a6b-4ae3-93f1-3d4a0c478b02)
+![Screenshot 2024-11-22 135319](https://github.com/user-attachments/assets/e9062bc8-b0da-4cf6-bfe2-7a0ee4810efd)
+
 ### Results/Findings
 This section presents the key findings and insights gained from the data analysis, including:
 - Sales trends and patterns
 - Top-selling products and categories
 - Customer demographics and behavior
+
+💻
+
+|Prodcuct|Categories|
+|--------|----------|
+|Sales|Profit|
+|service|pricing|
 
 ### Recommendation
 Based on the analysis, this section provides recommendations for the coffee shop to improve sales and customer satisfaction, including:
