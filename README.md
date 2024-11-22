@@ -3,7 +3,7 @@
 ### Table of contents
 - [Project Overview](#project-overview)
 - [Data Analysis](#data-analysis)
-- [References](references)
+- [References](#references)
 
 ## Project Overview
 This beginner-level guided project creates an interactive Excel dashboard to explore and analyze coffee shop sales. The project aims to demonstrate data analysis and visualization techniques using Microsoft Excel.
